@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  /*font-family: "Roboto", sans-serif;*/
+    background-color: grey;
+    font-weight: 200;
+}
+p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 700;
+}
+.variable{
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 700;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: darkred;
+    margin-bottom: 10px;
+    border: 6px solid black;
+    border-radius: 10%;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.tercero{
+    border-radius: 50%;
+}
+
+.cuarto{
+    background-color: blue;
+}
+
+.quinto{
+    border-radius: 50%;
+    background-color: red;
+}
+
+.sexto{
+    border-radius: 50%;
+    background-color: green;
+}
